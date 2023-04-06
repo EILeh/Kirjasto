@@ -1,0 +1,23 @@
+TuniLib;Sebesta;Programming Languages;14
+Sampola;Budd;Data Structures in C++;2
+Sampola;Wirth;Compiler Construction;on-the-shelf
+Metso;Savitch;Problem Solving with C++;8
+Sampola;Sebesta;Programming Languages;3
+Metso;Skansholm;C++ from the Beginning;on-the-shelf
+TuniLib;Wirth;Compiler Construction;10
+Metso;Budd;An Introduction to Object-Oriented Programming;on-the-shelf
+TuniLib;Budd;A Little Smalltalk;on-the-shelf
+Metso;Rivest;Introduction to Algorithms;on-the-shelf
+Sampola;Knuth;The Art of Computer Programming;1
+Metso;Budd;C++ for Java Programmers;100
+Metso;Budd;Data Structures in C++;4
+TuniLib;Wirth;Digital Circuit Design;5
+TuniLib;Wirth;Programming in Modula-2;3
+Sampola;Rivest;Introduction to Algorithms;3
+TuniLib;Korpela;C-ohjelmointikieli;on-the-shelf
+Metso;Korpela;C-ohjelmointikieli;3
+Metso;Wirth;Compiler Construction;7
+Metso;Sebesta;Programming Languages;3
+TuniLib;Dawson;Beginning C++ Game Programming;on-the-shelf
+TuniLib;Horton;Beginning C++ Game Programming;3
+Metso;Horton;Beginning C++ Game Programming;2
